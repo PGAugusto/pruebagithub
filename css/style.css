@@ -1,0 +1,13 @@
+/******************************************************************/
+/*            Stylesheet for Love, Death & Robots                 */
+/*            1º DAM/DAW 2023/24                                  */
+/*            Author: Pilar González Augusto                      */
+/*            Version: 1.0                                        */
+/******************************************************************/
+
+body {background-color:black;
+      margin:0;padding:0;}
+
+#wrapper {background-color:white;
+          width:80%;
+          margin:auto;}
